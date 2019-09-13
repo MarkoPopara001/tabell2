@@ -1,0 +1,22 @@
+table,tr,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 190%;
+   
+}
+table {width: 50%;}
+.blå {background-color: blue;
+    color: blue;
+}
+.röd {background-color: red;
+    color: red;
+}
+.gul {background-color: yellow;
+    color: yellow;
+}
+.svart {background-color: black;
+    color: black;
+}
+.grön {background-color: green;
+    color: green;
+}
